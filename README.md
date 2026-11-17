@@ -10,3 +10,8 @@
         
         OllamaService
             Send prompt and receive response
+
+    notebook
+        nb-analyse.ipynb
+        nb-observe.ipynb
+        
